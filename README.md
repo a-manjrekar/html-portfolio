@@ -1,2 +1,2 @@
 # html-portfolio
-Sample portfolio
+HTML practice sample portfolio
